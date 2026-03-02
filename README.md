@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/garvisavaliya23">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
